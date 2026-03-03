@@ -38,4 +38,3 @@
 ## Contact
 
 - LinkedIn: `https://www.linkedin.com/in/amina-a-41430b32b`
-- Email: `148545995+currentlycodinng@users.noreply.github.com`

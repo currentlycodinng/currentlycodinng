@@ -1,4 +1,4 @@
-<h1 align="center">Amina Akhmedova</h1>
+<h1 align="center">Amina A.</h1>
 <p align="center"><strong>AI Engineer Intern @ Orq.ai | AISO | AI Honours Student @ VU Amsterdam</strong></p>
 <p align="center">Netherlands</p>
 

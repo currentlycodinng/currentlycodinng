@@ -1,5 +1,5 @@
 <h1 align="center">Amina A.</h1>
-<p align="center"><strong>AI Engineer Intern @ Orq.ai | AISO | AI Honours Student @ VU Amsterdam</strong></p>
+<p align="center"><strong>AI Research Engineer @ Orq.ai | Head of Hackathons @ AISO | AI Honours Student @ VU Amsterdam</strong></p>
 <p align="center">Netherlands</p>
 
 <p align="center">

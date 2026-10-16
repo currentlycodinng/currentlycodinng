@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amina-a-41430b32b">LinkedIn</a>
   ·
-  <a href="https://github.com/currentlycodinng">GitHub</a>
-  ·
   <a href="mailto:148545995+currentlycodinng@users.noreply.github.com">Email</a>
 </p>
 
